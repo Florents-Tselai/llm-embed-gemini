@@ -1,6 +1,6 @@
 [project]
 name = "llm-embed-gemini"
-version = "0.1.2"
+version = "0.1.3"
 description = "Embedding models from Gemini"
 readme = "README.md"
 authors = [{name = "Florents Tselai"}]
