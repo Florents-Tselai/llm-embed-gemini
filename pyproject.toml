@@ -9,8 +9,7 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License"
 ]
 dependencies = [
-    "llm",
-    "google"
+    "llm"
 ]
 
 [project.urls]

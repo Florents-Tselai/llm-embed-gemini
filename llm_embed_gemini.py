@@ -1,12 +1,9 @@
 from typing import Union, List, Iterable, Iterator, Optional
 
 import llm
-from os import environ
 import urllib.request
 import json
 import os
-
-MAX_LENGTH = 8192
 
 
 @llm.hookimpl
