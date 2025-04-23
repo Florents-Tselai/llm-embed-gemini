@@ -1,8 +1,8 @@
 # llm-embed-gemini
 
 [![PyPI](https://img.shields.io/pypi/v/llm-embed-gemini.svg)](https://pypi.org/project/llm-embed-gemini/)
-[![Changelog](https://img.shields.io/github/v/release/simonw/llm-embed-gemini?include_prereleases&label=changelog)](https://github.com/simonw/llm-embed-gemini/releases)
-[![Tests](https://github.com/simonw/llm-embed-gemini/workflows/Test/badge.svg)](https://github.com/simonw/llm-embed-gemini/actions?query=workflow%3ATest)
+[![Changelog](https://img.shields.io/github/v/release/Florents-Tselai/llm-embed-gemini?include_prereleases&label=changelog)](https://github.com/Florents-Tselai/llm-embed-gemini/releases)
+[![Tests](https://github.com/Florents-Tselai/llm-embed-gemini/workflows/Test/badge.svg)](https://github.com/Florents-Tselai/llm-embed-gemini/actions?query=workflow%3ATest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/llm-embed-gemini/blob/main/LICENSE)
 
 [MARCH 7, 2025: State-of-the-art text embedding via the Gemini API](https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api/)
